@@ -29,6 +29,18 @@ uri2flow expand markpact://examples/22_markpact_weather/README.md#weather-local-
 
 See [`docs/MARKPACT_WITH_TOURI.md`](../../docs/MARKPACT_WITH_TOURI.md).
 
+## Install
+
+```bash
+pip install -e .
+```
+
+## Links
+
+- [TODO](TODO.md)
+- [touri](../touri) · [uri2flow](../uri2flow)
+- Org status: [`../TODO_STATUS.md`](../TODO_STATUS.md)
+
 
 ## License
 
